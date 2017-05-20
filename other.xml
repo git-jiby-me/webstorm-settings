@@ -1,0 +1,20 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/7.9.0/bin/node">
+      <version-cache version="7.9.0" last-modified="1492354828000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.10.0" last-modified="1494511441000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.7.3/bin/node">
+      <version-cache version="7.7.3" last-modified="1489733898000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.4.0/bin/node">
+      <version-cache version="7.4.0" last-modified="1483551728000" />
+    </local-interpreter>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://bigben.qumram.ch:8111&amp;^%$#@jibyjose@#$%^&amp;http://buildserver&amp;^%$#@jibyjose" />
+  </component>
+</application>
