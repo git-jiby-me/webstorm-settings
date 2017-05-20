@@ -4,4 +4,10 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <filter name="node_modules">
+      <pattern index="1" />
+      <pattern index="0" />
+    </filter>
+  </component>
 </application>
