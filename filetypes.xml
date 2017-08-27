@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="chrome_sandbox" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
