@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="json5" type="JSON" />
+      <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="chrome_sandbox" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
