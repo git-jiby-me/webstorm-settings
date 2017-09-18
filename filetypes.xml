@@ -4,15 +4,14 @@
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping ext="json5" type="JSON" />
       <mapping ext="mjs" type="JavaScript" />
-      <mapping pattern="chrome_sandbox" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="chrome_sandbox" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
-      <mapping ext="pak" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="gn" type="PLAIN_TEXT" />
+      <mapping ext="pak" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
