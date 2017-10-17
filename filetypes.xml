@@ -10,6 +10,7 @@
       <mapping pattern="chrome_sandbox" type="PLAIN_TEXT" />
       <mapping pattern="src" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="gn" type="PLAIN_TEXT" />
       <mapping ext="pak" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
